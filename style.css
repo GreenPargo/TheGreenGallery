@@ -1,0 +1,51 @@
+html {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    background-color: #070D0A;   /* light background */
+    color: #D0DDD7;              /* dark text */
+    font-family: "Ubuntu", sans-serif;
+    width: 70%;
+}
+
+h1 {
+    font-family: "Rubik Mono One", monospace;
+    font-weight: 400;
+    font-style: normal;
+    color: #F5B700;              /* accent color */
+}
+
+h2, h3 {
+    font-family: "Cinzel", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+a {
+    color: #8f6c02;              /* accent color */
+    text-decoration: none;
+    font-weight: bold;           /* text style */
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+p {
+    line-height: 1.6;            /* spacing between lines */
+}
+
+.imgCenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
