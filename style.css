@@ -10,6 +10,12 @@ header {
     align-items: center;
 }
 
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 body {
     background-color: #070D0A;   /* light background */
     color: #D0DDD7;              /* dark text */
