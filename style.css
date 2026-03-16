@@ -16,6 +16,10 @@ nav {
     align-items: center;
 }
 
+nav a {
+    margin: 10%;
+}
+
 body {
     background-color: #070D0A;   /* light background */
     color: #D0DDD7;              /* dark text */
