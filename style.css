@@ -111,6 +111,11 @@ p {
     line-height: 1.6;            /* spacing between lines */
 }
 
+img {
+    width: 30vw;
+    height: auto;
+}
+
 .imgCenter {
     display: flex;
     justify-content: center;
@@ -122,6 +127,11 @@ p {
     justify-content: space-between;
 }
 
+#center {
+    text-align: justify;
+}
+
 .fiftyCent {
     width: 50%;
 }
+
