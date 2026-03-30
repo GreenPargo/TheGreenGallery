@@ -118,6 +118,6 @@ p {
 }
 
 #textNext {
-    display: flexbox;
+    display: flex;
     justify-content: space-between;
 }
