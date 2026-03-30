@@ -121,3 +121,7 @@ p {
     display: flex;
     justify-content: space-between;
 }
+
+.fiftyCent {
+    width: 50%;
+}
