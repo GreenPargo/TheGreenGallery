@@ -118,9 +118,7 @@ img {
 }
 
 .imgCenter {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    margin: auto;
 }
 
 #textNext {
@@ -136,6 +134,3 @@ img {
     width: 50%;
 }
 
-#killMargin {
-    margin: 0;
-}
