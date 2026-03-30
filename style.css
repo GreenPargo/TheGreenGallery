@@ -109,7 +109,7 @@ a:hover {
 
 p {
     line-height: 1.6;
-    margin: 2vw;            /* spacing between lines */
+    margin: 0vw 2vw 0vw 0vw;            /* spacing between lines */
 }
 
 img {
