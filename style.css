@@ -88,6 +88,11 @@ body {
     
 }
 
+form {
+    display: flex;
+    flex-direction: column;
+}
+
 h1 {
     font-family: "Rubik Mono One", monospace;
     font-weight: 400;
