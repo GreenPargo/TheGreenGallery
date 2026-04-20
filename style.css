@@ -64,6 +64,10 @@ header {
     align-items: center;
 }
 
+header h1 {
+    margin: 10px;
+}
+
 nav {
     display: flex;
     flex-direction: row;
@@ -71,7 +75,7 @@ nav {
     align-items: center;
 }
 
-nav h3 {
+nav h2 {
     margin-left: 5%;
     margin-right: 5%;
 }
